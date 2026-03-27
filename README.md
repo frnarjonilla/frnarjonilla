@@ -16,7 +16,7 @@ Especialista en **Microsoft Fabric** y arquitecturas de datos modernas. Mi enfoq
 
 ### 📂 Proyectos Destacados (Portfolio)
 
-#### [✈️ Real-Time Aviation Streaming - Microsoft Fabric](https://github.com/frnarjonilla/Real-Time-Aviation-Streaming)
+#### [✈️ Real-Time Aviation Streaming - Microsoft Fabric](https://github.com/frnarjonilla/Real-Time-Flight-Tracking-Proximity-Alerts-with-MS-Fabric)
 > Ingesta de datos en tiempo real mediante APIs y procesamiento con **Spark Streaming**. Implementación de arquitectura Medallón para monitorización de tráfico aéreo.
 
 #### [🛒 Brazilian E-Commerce Pipeline](https://github.com/frnarjonilla/Brazilian-ECommerce-Fabric)
