@@ -1,16 +1,44 @@
-## Hi there 👋
+# 🚀 Hola, soy Francisco Javier Arjonilla | Data Engineer
 
-<!--
-**frnarjonilla/frnarjonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Especialista en **Microsoft Fabric** y arquitecturas de datos modernas. Mi enfoque combina la robustez de la **Administración de Sistemas (ASIR)** con la agilidad del **Data Engineering** y la automatización **DataOps**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Mi Stack Tecnológico
+
+* **Data Engineering:** Microsoft Fabric (Lakehouse & Warehouse), Apache Spark (PySpark), Delta Lake.
+* **ETL/ELT & Orquestación:** Fabric Pipelines, Data Factory, Spark Notebooks.
+* **Bases de Datos:** SQL Server, Azure SQL, Google BigQuery, T-SQL Avanzado.
+* **Automatización & DevOps:** GitHub Actions, Power Automate, CI/CD para datos.
+* **Visualización:** Power BI (DAX Avanzado & Data Storytelling).
+
+---
+
+### 📂 Proyectos Destacados (Portfolio)
+
+#### [✈️ Real-Time Aviation Streaming - Microsoft Fabric](https://github.com/frnarjonilla/Real-Time-Aviation-Streaming)
+> Ingesta de datos en tiempo real mediante APIs y procesamiento con **Spark Streaming**. Implementación de arquitectura Medallón para monitorización de tráfico aéreo.
+
+#### [🛒 Brazilian E-Commerce Pipeline](https://github.com/frnarjonilla/Brazilian-ECommerce-Fabric)
+> Pipeline de extremo a extremo transformando datos complejos de Olist en un **Modelo en Estrella**. Automatización de alertas críticas con **Power Automate**.
+
+#### [🚖 NYC Taxi Analysis (Big Data)](https://github.com/frnarjonilla/NYC-Taxi-Data-Engineering-Project---Microsoft-Fabric)
+> Procesamiento de grandes volúmenes de datos con **PySpark**. Optimización de rendimiento mediante particionamiento y gestión de tablas **Delta**.
+
+---
+
+### 📊 Estadísticas de GitHub
+![Estadísticas de Francisco](https://github-readme-stats.vercel.app/api?username=frnarjonilla&show_icons=true&theme=visual_studio_code&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=frnarjonilla&layout=compact&theme=visual_studio_code)
+
+---
+
+### 📫 Contacto
+
+* **LinkedIn:** [linkedin.com/in/francisco-arjonilla](https://www.linkedin.com/in/francisco-arjonilla)
+* **Email:** frnarjonilla@gmail.com
+* **Ubicación:** Jaén, España (Disponible para Remoto)
+
+---
+
+> *"No solo muevo datos, construyo sistemas que los hacen valiosos."*
