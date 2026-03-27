@@ -27,18 +27,6 @@ Especialista en **Microsoft Fabric** y arquitecturas de datos modernas. Mi enfoq
 
 ---
 
-### 📊 Actividad en GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=frnarjonilla&show_icons=true&theme=visual_studio_code&count_private=true&hide_border=true" alt="Estadísticas de Francisco" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frnarjonilla&layout=compact&theme=visual_studio_code&hide_border=true" alt="Lenguajes más usados" />
-</p>
-
----
-
 ### 📫 Contacto
 
 * **LinkedIn:** [linkedin.com/in/francisco-arjonilla](https://www.linkedin.com/in/francisco-arjonilla)
