@@ -8,7 +8,7 @@ Especialista en **Microsoft Fabric** y arquitecturas de datos modernas. Mi enfoq
 
 * **Data Engineering:** Microsoft Fabric (Lakehouse & Warehouse), Apache Spark (PySpark), Delta Lake.
 * **ETL/ELT & Orquestación:** Fabric Pipelines, Data Factory, Spark Notebooks, Scala
-* **Bases de Datos:** SQL Server, Azure SQL, Google BigQuery, T-SQL Avanzado.
+* **Bases de Datos:** SQL Server, Azure SQL, Google BigQuery, T-SQL Avanzado, DBT
 * **Automatización & DevOps:** GitHub Actions, Power Automate, CI/CD para datos.
 * **Visualización:** Power BI (DAX Avanzado & Data Storytelling).
 
